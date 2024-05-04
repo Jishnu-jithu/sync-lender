@@ -1,1 +1,1 @@
-# syncb-lender
+# sync-lender
