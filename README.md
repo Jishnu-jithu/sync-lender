@@ -1,5 +1,7 @@
 # Sync Blender
 
+![GitHub](https://github.com/Jishnu-jithu/sync-lender/assets/145359279/ba575ee0-a08c-4aec-a9d0-9332876fad3f)
+
 Stop wasting time configuring Blender for each project! Sync Blender is a powerful addon that streamlines your workflow by managing your settings across different Blender versions.
 
 ## Features:
